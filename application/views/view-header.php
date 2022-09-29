@@ -9,7 +9,7 @@ $name = ucwords($session_data['first_name']) . ' ' . ucwords($session_data['midd
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta charset="utf-8" />
-		<title>SPC - 	LIS</title>
+		<title>XXX - 	LIS</title>
 
 		<meta name="description" content="overview &amp; stats" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
@@ -139,7 +139,7 @@ $name = ucwords($session_data['first_name']) . ' ' . ucwords($session_data['midd
 					<img class="company-logo" src="<?php echo base_url();?>assets/images/global/logo.png">
 					
 					<div class="company-name">
-						<h1>SOUTHERN PHILIPPINES COLLEGE</h1>
+						<h1>SCHOOL NAME</h1>
 						<h3>Learner Information System</h3>
 					</div>
 
